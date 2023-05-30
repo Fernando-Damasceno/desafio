@@ -1,0 +1,8 @@
+C:\Users\Fernando\source\repos\projeto_athletic_gear\bin\Debug\projeto_athletic_gear.exe.config
+C:\Users\Fernando\source\repos\projeto_athletic_gear\bin\Debug\projeto_athletic_gear.exe
+C:\Users\Fernando\source\repos\projeto_athletic_gear\bin\Debug\projeto_athletic_gear.pdb
+C:\Users\Fernando\source\repos\projeto_athletic_gear\obj\Debug\projeto_athletic_gear.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\projeto_athletic_gear\obj\Debug\projeto_athletic_gear.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\source\repos\projeto_athletic_gear\obj\Debug\projeto_athletic_gear.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\projeto_athletic_gear\obj\Debug\projeto_athletic_gear.exe
+C:\Users\Fernando\source\repos\projeto_athletic_gear\obj\Debug\projeto_athletic_gear.pdb
